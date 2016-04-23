@@ -38,7 +38,7 @@
 bl_info = {
     'name': 'Use Pentablet',
     'author': 'Harold Tovar',
-    'version': (1, 0),
+    'version': (1, 1),
     "blender": (2, 6, 8),
     "api": 36157,
     'description': 'Enable some options inside Blender to work with Pentablets',
