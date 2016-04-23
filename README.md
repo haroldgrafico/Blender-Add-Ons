@@ -5,5 +5,6 @@ Use Pentablet Add-On: Es un add-on de mi autoria para Blender, permite intercamb
 
 Use Pentablet Add-On: Is an add-on that I created for Blender that allow you to switch between work with a mouse or work with a pentablet like a wacom tablet for example in a easy way, it also adds a few operators and some extra options to acomplish certain tasks, I make a video with all the things that the add-on gives you, but is in Spanish
 
-Video
-https://www.youtube.com/watch?v=p1PTqJJblcQ
+Use Pentablet Add-On Video:https://www.youtube.com/watch?v=p1PTqJJblcQ
+
+
